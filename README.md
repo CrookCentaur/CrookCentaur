@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CrookCentaur
-- 👀 I’m interested in Data Analytics, Machine Learning and it's applications in Healthcare and Business
+- 👀 I’m interested in Data Analytics, Machine Learning and it's applications in real life
 - 🌱 I’m currently doing my Masters in Data Science and Analytics
 - 💞️ I’m looking to collaborate on EDA, Model Building and Data Analysis projects using Python and Statistical Data Analysis and Visualisation using R-Studio
 - 📫 You can reach me via DM or email
